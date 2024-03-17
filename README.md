@@ -1,4 +1,4 @@
-# Telecom Company Customer Classification - Stayed or Churned
+# Telecom Company Customer Classification - Stayed or Churned.
 
 ## Introduction
 
