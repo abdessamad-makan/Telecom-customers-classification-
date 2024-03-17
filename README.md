@@ -24,9 +24,9 @@ The project follows these key steps:
 
 ## Directory Structure
 
+- **project/**:Contains the final source code for model implementation.
 - **data/**: Contains the dataset used for training and evaluation.
 - **notebooks/**: Includes Jupyter notebooks used for data exploration, model development, and evaluation.
-- **src/**: Contains the source code for model implementation.
 - **README.md**: This file, providing an overview of the project, its objectives, methodology, and directory structure.
 
 ## Usage
@@ -35,8 +35,9 @@ To use this project:
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies (Python, required libraries, etc.).
 3. Explore the Jupyter notebooks in the `notebooks/` directory to understand the project workflow.
-4. Execute the source code in the `src/` directory to train and evaluate the model.
-5. Make adjustments as needed or contribute by proposing improvements via pull requests.
+4. Execute the source code model.py in the `project/` directory to train the model.
+5. Make sur to open all folder `project/` content and execute the source code app.py to go on the web site of model deployment.
+6. Enjoy 
 
 Feel free to open issues for any questions or suggestions!
 
